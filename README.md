@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -118,9 +117,7 @@
             <li><a href="https://santiago1706.github.io/Basura_Tecnologica_Analista/">Sensor de Sonido</a></li>
             <li><a href="https://santiago1706.github.io/Basura_Tecnologica_Experto/">Microfrono</a></li>
             
-        </div>
-    </nav>
-
+      
     <section id="descripcion">
         <h2>Investigador Principal</h2>
         <p>La basura tecnológica o e-waste, se refiere a los dispositivos electrónicos desechados, como teléfonos, computadoras y electrodomésticos, que ya no son útiles o están obsoletos. Estos residuos contienen materiales peligrosos y metales valiosos, lo que requiere un manejo adecuado para evitar daños ambientales y aprovechar sus componentes reciclables. </p>
